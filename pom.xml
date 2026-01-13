@@ -86,11 +86,11 @@
         <glassfish.copyright.maven.plugin.version>2.4</glassfish.copyright.maven.plugin.version>
         <maven.bundle.plugin.version>6.0.0</maven.bundle.plugin.version>
         <maven.checkstyle.plugin.version>3.6.0</maven.checkstyle.plugin.version>
-        <maven.compiler.plugin.version>3.12.1</maven.compiler.plugin.version>
-        <maven.jar.plugin.version>3.3.0</maven.jar.plugin.version>
+        <maven.compiler.plugin.version>3.14.1</maven.compiler.plugin.version>
+        <maven.jar.plugin.version>3.5.0</maven.jar.plugin.version>
         <maven.jxr.plugin.version>3.6.0</maven.jxr.plugin.version>
         <maven.javadoc.plugin.version>3.12.0</maven.javadoc.plugin.version>
-        <maven.source.plugin.version>3.3.0</maven.source.plugin.version>
+        <maven.source.plugin.version>3.4.0</maven.source.plugin.version>
         <maven.surefire.plugin.version>3.5.4</maven.surefire.plugin.version>
 
         <api.package>jakarta.ws.rs</api.package>
@@ -101,15 +101,15 @@
 
         <annotation.api.version>3.0.0</annotation.api.version>
         <activation.api.version>2.2.0-M1</activation.api.version>
-        <inject.api.version>2.0.1</inject.api.version>
+        <inject.api.version>2.0.1.MR</inject.api.version>
         <validation.api.version>3.1.1</validation.api.version>
         <concurrent.api.version>3.2.0-M1</concurrent.api.version>
-        <cdi.api.version>5.0.0.Alpha1</cdi.api.version>
-        <junit.version>6.0.0</junit.version>
+        <cdi.api.version>5.0.0-M1</cdi.api.version>
+        <junit.version>6.0.2</junit.version>
         <org.glassfish.jaxb.version>4.0.3</org.glassfish.jaxb.version>
         <com.sun.istack.version>4.1.2</com.sun.istack.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <mockito.version>5.20.0</mockito.version>
+        <mockito.version>5.21.0</mockito.version>
 
         <!-- Documentation versions -->
         <asciidoctorj.maven.plugin.version>3.2.0</asciidoctorj.maven.plugin.version>
