@@ -36,11 +36,11 @@
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
-        <jersey.version>4.0.0-M4</jersey.version>
+        <jersey.version>4.0.0</jersey.version>
         <glassfish.container.version>8.0.0-M13</glassfish.container.version>
         <glassfish.home>${project.build.directory}/glassfish8</glassfish.home>
         <jakarta.platform.version>11.0.0</jakarta.platform.version>
-        <junit.jupiter.version>6.0.0</junit.jupiter.version>
+        <junit.jupiter.version>6.0.2</junit.jupiter.version>
         <jakarta.rest.version>5.0.0-SNAPSHOT</jakarta.rest.version>
         <tck.artifactId>jakarta-restful-ws-tck</tck.artifactId>
     </properties>
